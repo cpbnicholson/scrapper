@@ -1,0 +1,1009 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if lt IE 7]><html xmlns="http://www.w3.org/1999/xhtml" class="ie6"><![endif]-->
+<!--[if IE 7]><html xmlns="http://www.w3.org/1999/xhtml" class="ie7"><![endif]-->
+<!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml" class="ie8"><![endif]-->
+<!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+
+    <head>
+        
+<title>Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4 MyHome.ie Residential</title>
+
+<meta name="description" content="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4. 3 Bed, asking price €875,000, brought to market by McNally Handy (rated C3)"/>
+<meta name="keywords" content="3 Bed, Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4"/>
+<link rel="canonical" href="/residential/brochure/ashleigh-oaklands-park-sandymount-sandymount-dublin-4/2998360" />
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="verify-v1" content="n0nOjBFG5RAzCMMvkYLy1YDg0WmCBlgjHWVaphD95jo=" />
+<meta name="y_key" content="2fb32631c8677a8b" />    
+<meta name="google-site-verification" content="YYKMrqlfCQnev-SHAoH13wxTxPZP00e-tuP04HaIgXY" />
+<meta name="msvalidate.01" content="C256D2FCBE6E56024F2819A51DA5DD24" />
+<meta property="og:title" content="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4 MyHome.ie Residential" /><meta property="og:url" content="http://www.myhome.ie/residential/brochure/ashleigh-oaklands-park-sandymount-sandymount-dublin-4/2998360" /><meta property="og:image" content="//photos-a.propertyimages.ie/media/0/6/3/2998360/9270cddc-1213-4364-9a8a-a1f4e4b22fdb_m.jpg" /><meta property="og:description" content="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4. 3 Bed, asking price €875,000, brought to market by McNally Handy" /><meta property="og:site_name" content="MyHome.ie" /><meta property="og:type" content="article" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"026a5df91c","applicationID":"4397463","transactionName":"YwEAbEUCXktTVxJYWFpLJldDLVVMcVsIRUVbCA5dRUxiXUFdAlRZQA0DVBghQldRXBNDUg==","queueTime":0,"applicationTime":104,"ttGuid":"BCA99B33C9FADAC1","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+<link href="/bundles/residentialCss?v=OKKz3BGv3Cj9yvgfxS_RBbyXmNTLq-Z7bzJlpDOdR3Q1" rel="stylesheet"/>
+
+
+
+
+
+
+
+
+<link href="/bundles/leafletCss?v=7N-b14mLDtjwOmHONHxQwpqP88vgHe5Sm-39ngPfItg1" rel="stylesheet"/>
+
+
+
+
+
+<link rel="stylesheet" href="/bundles/printCss?v=voINJ0ttriEOSw62gFofGwPoPYEoIndITGkLJSpLWLs1" type="text/css" media="print" />
+
+    </head>
+
+    <body id="residential">
+
+        
+        <div id="siteNotificationWrap">
+            <div id="siteNotification" data-notification="onView2012_10_12" class="blueStripes">
+                <a id="close" title="hide this notification">x</a>
+                <a class="wrapLink" href="/onview?source=residential">
+                    <div id="message">
+                        <div class="calendarDate">
+                            <div class="month">Nov</div>
+                            <div class="day">29</div>
+                        </div>
+                        <span><span class="underline">356 properties</span> are on view this week</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    
+    
+        <div class="page">
+            <div id="header">
+                <div id="title">
+                    <a href="/"><img class="logo" src="/static/images/homepageRedesign/MyHomeBlue.png" alt="MyHome.ie" /></a>
+                </div>
+
+                <div id="topRightBar">
+                    <div class="notice">
+                        <a href="/cookiepolicy">Cookie Policy</a>
+                    </div>
+                    
+                    <div id="mobileDownloads">
+                        <a href="/mobile" title="MyHome.ie Mobile Apps">
+                            <span class="iphone"></span>
+                            <span class="android"></span>
+                        </a>
+                    </div>
+
+                    <ul id="accountNav">                       
+                        
+                            <li class="last"><a href="https://www.myhome.ie/account/login">Login</a> or <a href="https://www.myhome.ie/account/register">Create Account</a></li>
+                        
+                    </ul>
+                </div>
+
+                <div></div>
+                <div id="menucontainer">
+                    <ul id="menu">
+                        <li  class="selected" ><a href="/">For Sale</a></li>
+                        <li ><a href="/rentals">To Rent</a></li>
+                        <li ><a href="/commercial">Commercial</a></li>
+                        <li ><a href="/holiday-homes">Holiday Homes</a></li>
+                        <li ><a href="/services">Directory</a></li>
+                        <li><a href="http://blog.myhome.ie/category/advice/">Advice</a></li>
+                        <li ><a class="floatRight" href="https://www.myhome.ie/account/">My Account</a></li>
+                    </ul>
+                </div>
+                <div></div>
+
+                
+
+<div id="breadcrumbs">
+    <div class="floatLeft">
+
+     
+            <a href="/" title="">MyHome.ie</a>  >  
+            <a href="/residential" title="">Residential</a>  > Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4 
+
+    </div>
+
+     
+            <a class="floatRight" href="http://www.myhome.ie/residential/dublin/property-for-sale-in-dublin-4" title=""><< Back to Search Results</a>
+        
+
+</div>
+
+
+            </div>
+
+            
+
+            <div id="main">
+                
+    
+<div id="brochureTop" >
+	
+    
+    <div id="LeaderboardAd" >
+        
+
+        <script language="javascript">
+            <!--
+            if (window.adgroupid == undefined) {
+                window.adgroupid = Math.round(Math.random() * 1000);
+            }
+            document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|257|3724553|0|225|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=1;kvcounty=DCZ004;kvlocality=DCSANDYMT;kvgroupid=5719;kvaddress=Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4;kvpropertyid=2998360;kvregionid=1444;kvlocalityid=1392;kvenergyrating=C3;misc=' + new Date().getTime() + '"></scri' + 'pt>');
+            //-->
+            </script><noscript><a href="http://adserver.adtech.de/adlink|3.0|257|3724553|0|225|ADTECH;grp=1;kvcounty=DCZ004;kvlocality=DCSANDYMT;kvgroupid=5719;kvaddress=Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4;kvpropertyid=2998360;kvregionid=1444;kvlocalityid=1392;kvenergyrating=C3;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|257|3724553|0|225|ADTECH;grp=1;kvcounty=DCZ004;kvlocality=DCSANDYMT;kvgroupid=5719;kvaddress=Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4;kvpropertyid=2998360;kvregionid=1444;kvlocalityid=1392;kvenergyrating=C3;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" ></a></noscript>
+            <!-- End of JavaScript Tag -->
+
+        
+    </div>
+
+	<div class="topContent ">
+		
+    <img src="//photos-a.propertyimages.ie/groups/9/1/7/5719/logo.jpg" alt="Agent Logo" class="brochureThumb" />
+
+<h1 class="brochureHeading">
+    <div class="brochureAddress">
+        Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4
+    </div>
+</h1>
+<h2 class="brochureDescription">
+    <div class="brochurePrice">
+        €875,000
+    </div>
+    
+        <span> - 3 Bed Detached House 1270.15 ft&#178; / 118 m&#178; For Sale</span>
+    
+        <img id="BER" class="brochure" src="/static/images/energyRating/C3.png" alt="C3" title="This property has a C3 energy rating" />
+    
+</h2>
+
+<div class="brochureSocial">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="myhomeproperty">Tweet</a>
+    <iframe class="facebook" src="//www.facebook.com/plugins/like.php?href=http://www.myhome.ie/residential/brochure/ashleigh-oaklands-park-sandymount-sandymount-dublin-4/2998360&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:82px; height:21px;" allowTransparency="true"></iframe>
+    <g:plusone size="medium"></g:plusone>
+</div>
+	</div>
+</div>
+<div id="brochureBody"  >
+	<div class="columnLeft">
+        
+
+<div class="gallery">
+     
+    <ul id="photos">
+        
+            <li class="mainPhoto"><img class="colorboxGallery replaceIfBroke" src="//photos-a.propertyimages.ie/media/0/6/3/2998360/9270cddc-1213-4364-9a8a-a1f4e4b22fdb_m.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/9270cddc-1213-4364-9a8a-a1f4e4b22fdb_l.jpg" /></li>
+        
+            <li><img class="colorboxGallery replaceIfBroke " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/2808bdb2-63a4-4766-bfe8-34c6ad17cefd_t.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/2808bdb2-63a4-4766-bfe8-34c6ad17cefd_l.jpg" /></li>
+        
+            <li><img class="colorboxGallery replaceIfBroke " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/5b5d995d-68e4-4536-9976-057a42f6ac14_t.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/5b5d995d-68e4-4536-9976-057a42f6ac14_l.jpg" /></li>
+        
+            <li><img class="colorboxGallery replaceIfBroke " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/cb1eac33-b7af-4b14-9974-7bad974aad2c_t.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/cb1eac33-b7af-4b14-9974-7bad974aad2c_l.jpg" /></li>
+        
+            <li><img class="colorboxGallery replaceIfBroke " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/4941f026-f75e-4145-afc3-b0b7d084510f_t.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/4941f026-f75e-4145-afc3-b0b7d084510f_l.jpg" /></li>
+        
+            <li><img class="colorboxGallery replaceIfBroke " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/c67395d4-ea11-40f0-809b-2189f239e494_t.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/c67395d4-ea11-40f0-809b-2189f239e494_l.jpg" /></li>
+        
+            <li><img class="colorboxGallery replaceIfBroke " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/2ba6cdf4-c05d-444d-ba90-fcd8f1421fa2_t.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/2ba6cdf4-c05d-444d-ba90-fcd8f1421fa2_l.jpg" /></li>
+        
+            <a id="viewImages" class="arrowLink floatRight">View 10 Images</a>
+            
+                <img class="colorboxGallery hide " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/0331176c-02ee-4859-a8d9-c434fb200d03_l.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/0331176c-02ee-4859-a8d9-c434fb200d03_l.jpg" />
+            
+                <img class="colorboxGallery hide " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/074c20be-85b9-4cd0-bc0f-4bae1a951d42_l.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/074c20be-85b9-4cd0-bc0f-4bae1a951d42_l.jpg" />
+            
+                <img class="colorboxGallery hide " src="//photos-a.propertyimages.ie/media/0/6/3/2998360/d934daa3-6635-4304-a3be-7180f386ab77_l.jpg" alt="Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4" longdesc="//photos-a.propertyimages.ie/media/0/6/3/2998360/d934daa3-6635-4304-a3be-7180f386ab77_l.jpg" />
+            
+    </ul>
+</div>
+
+<div class="toolboxWrap">
+
+    <div class="toolbox floatLeft">
+        <ul>
+
+            <li class="hide" id="propertyID" title="2998360"></li>
+            <li class="hide" id="propertyClass" title="residential"></li>
+
+            <li class="first"> 
+                <a class="faveStar " name="False" id="2998360">Favourite</a>
+            </li>
+            <li>
+                <a id="printBrochure" href="/residential/brochure/ashleigh-oaklands-park-sandymount-sandymount-dublin-4/2998360/print" target="_blank">Print</a>
+            </li>
+            <li>
+                <a id="sendToFriend">Send</a>
+            </li>
+            <li>
+                <a id="reportAd">Report Ad</a>
+            </li>
+            
+            
+                <li>
+                    <a href="#map">Map</a>            
+                </li>
+            
+
+       </ul>
+    </div>
+    
+    
+        <a class="floatRight" id="shortLink" rel="shortLink">www.myhome.ie/2998360</a>
+    
+</div>
+
+<div class="brochureText">
+
+	<span id="propertyAddedOn" title="Added yesterday, refreshed yesterday">
+		Edited yesterday
+	</span>
+
+	
+			<h3 class="headerDescription header0">Description</h3>
+			<div class="contentDescription content0">
+                Ashleigh is a wonderful well-presented detached 3 bed family home located in Oaklands Park. The property is spacious at c.118sqm (c.1,270.15sqft) with additional space located in a side annex currently utilized as a utility room and a separate garage.<br /><br />Accommodation briefly comprises guest cloakroom, kitchen with dining area, open plan living room access to rear garden, study and storage room. To the side of the property is an annex currently utilized as a utility room with access to front and rear garden. On the first floor there are three bedrooms with the master en-suite and family bathroom. <br /><br />There is ample off street parking to the front of the property with dual entrances. The garden to rear is south east facing and is part paved and in grass.<br /><br />There is currently planning permission for two semi-detached three storey three bedroom townhouses. Permission granted Sept 2014, planning reference 2779/14. Additional information available on request.<br /><br />Title<br />We have been informed that the title is Freehold. <br /><br />Price<br />Quoting €875,000<br /><br />BER Details<br />BER: C3<br />BER No: 104062534<br />Energy Performance Indicator: 208.09Kwh/m&#178;/yr<br /><br />PSRA: 002226
+            </div>
+            
+			<h3 class="headerFeatures header1">Features</h3>
+			<div class="contentFeatures content1">
+                Detached <br />Gas fired central heating<br />Off street parking <br />Planning for two semi-detached houses
+            </div>
+            
+			<h3 class="headerBER Details header2">BER Details</h3>
+			<div class="contentBER Details content2">
+                BER: C3<br />BER No. 104062534<br />Energy Performance Indicator: 208.09Kwh /m&#178;/yr
+            </div>
+            
+			<h3 class="headerAccommodation header3">Accommodation</h3>
+			<div class="contentAccommodation content3">
+                Accommodation		Dimensions	SQM<br />Entrance hall <br />Guest wc &amp; whb				1.08 x 1.75<br />Kitchen:fully fitted, gas hob &amp;  	5.29 x 3.50<br />Plumbed, tiled &amp; wooden floors with dining area <br />Living Room: wooden floors, gas fire	3.38 x 5.83<br />access to rear garden<br />Study: carpet views over rear garden 	2.28 x 4.20<br />Storage room: 				2.06 x 2.28<br />Side annex utility room 		7.12 x 4.00<br /><br />Master: carpet, fitted wardrobes	3.42 x 3.46<br />En-suite: wc, whb &amp; bath, tiled floor	1.67 x 2.39<br />Bed 2: carpet, fitted wardrobes		2.37 x 3.46<br />Bed 3: carpet, fitted wardrobes		2.84 x 3.47<br />Family bathroom: wc, whb &amp; shower	2.24 x 1.81
+            </div>
+            
+					<a class="contactAgentLink contactAgent4">Contact Agent</a>
+				
+			<h3 class="headerDirections header4">Directions</h3>
+			<div class="contentDirections content4">
+                Oaklands Park is a centrally location and is within close proximity to Sandymount village and Ballsbridge. There are a host of amenities within walking distance of the property to include shops bars and cafes. Ashleigh is close to various transportation links such as various Dublin Bus routes as well as the DART at Sandymount.
+            </div>
+            
+					<a class="contactAgentLink contactAgent5">Contact Agent</a>
+				
+			<h3 class="headerViewing Details header5">Viewing Details</h3>
+			<div class="contentViewing Details content5">
+                By appointment only through sole selling agents McNally Handy &amp; Partners.<br /><br />Contact<br />John McNally 01-6640201 <br />johnm@mcnallyhandy.ie <br /><br />Carley Fahey 01-6640206<br />carley@mcnallyhandy.ie
+            </div>
+            
+		<h3>Documents</h3>
+		
+			<a target="_blank" class="pdfDownload" href="//photos-a.propertyimages.ie/media/0/6/3/2998360/f4645a2b-236e-476e-b38b-9db91708270e.pdf">f4645a2b-236e-476e-b38b-9db91708270e.pdf</a>
+		
+
+</div>
+
+
+	<a class="brochureNotice brown" href="/upgrade/premium/2998360">
+		<span class="left">Is This Your Property?</span>
+		<span class="right">Upgrade To Premium Ad &raquo;</span>
+	</a>
+
+		</div>
+		<div class="columnLeft overflowVisible">
+			
+
+<div class="brochureMapHolder">
+    <div id="map"></div>
+</div>
+
+<script type="text/javascript">
+    var mapOptions = {
+        property: {
+            PropertyID: 2998360,
+            Address: "Ashleigh, Oaklands Park, Sandymount",
+            Price: "€875,000",
+            Map: {"Latitude":53.3296117,"Longitude":-6.2227206,"IsAutoGeocoded":true,"Polygons":[]},
+            MainPhotoUrl: "//photos-a.propertyimages.ie/media/0/6/3/2998360/9270cddc-1213-4364-9a8a-a1f4e4b22fdb_t.jpg",
+            PropertySection: 1
+        },
+        propertySection: "residential",
+        baseUrl: "",
+        useOpenLayer: true,
+        zoom: 15,
+        fullScreenOpened: function() {
+            $("#brochureFloorplanner").css({ "visibility": "hidden" })
+        },
+        fullScreenClosed: function() {
+            $("#brochureFloorplanner").css({ "visibility": "visible" })
+        }
+    };
+</script>
+		</div>
+		<div class="columnLeft">
+	
+
+<div id="agentContactForm" class="residentialForm">
+    <div class="contactHeader">
+        <h2>Interested in this Residential Property<span alt="GroupID: 5719" title="GroupID: 5719">?</span></h2>
+        
+            <h5>Contact the Estate Agent about: Ashleigh, Oaklands Park, Sandymount, Sandymount,   Dublin 4</h5>
+        
+    </div>
+    <div class="contactForm">
+        
+            <a class="agentImgLink" href="/residential/estate-agents/mcnally-handy-5719">
+                <img class="agentImg" src="//photos-a.propertyimages.ie/groups/9/1/7/5719/logo.jpg" alt="McNally Handy" title="McNally Handy" />
+            </a>
+
+            
+
+            <ul class="agentDetails">
+
+                
+                            <li><span class="negotiator">Negotiator: John  McNally </span></li>                      
+                        
+
+                <li class="agentName"><a href="/residential/estate-agents/mcnally-handy-5719">McNally Handy</a></li>
+                <li>3 Pembroke Street Lower, Dublin City Centre, Dublin 2, </li>
+                <li>Phone: 01 6612003</li>
+                <li>Fax: 01 6611887 </li>
+                </li>
+            </ul>
+        
+
+<div id="agentContactPanel">
+<form Id="contactAgentForm" action="/residential/contact" method="post"><input id="PropertyID" name="PropertyID" type="hidden" value="2998360" />
+    <input id="GroupID" name="GroupID" type="hidden" value="5719" />
+        <div id="errorMessages">
+        </div>
+        <div class="formLeft">
+            <ul>
+                <li><label>Name:</label> <input Class="required" id="Name" name="Name" type="text" value="" /></li>
+                <li><label>Email:</label> <input Class="required-group" id="Email" name="Email" type="text" value="" /></li>
+                <li><label>Phone:</label> <input Class="required-group" id="Phone" name="Phone" type="text" value="" /></li>                            
+            </ul>
+        </div>
+        <div class="formRight">
+            <ul>
+                <li><label>Message:</label> <textarea Class="required" Cols="20" Rows="2" cols="20" id="Message" name="Message" rows="2">
+</textarea></li>
+                <li><input Style="display: none" id="StickyGooPot" name="StickyGooPot" type="text" value="" /></li>
+            </ul>
+        </div>        
+        <button id="contactAgentFormSubmit" class="button green large main floatRight" type="submit">Send Message</button>
+</form>
+</div>
+    </div>
+</div>
+<div id="priceChanges">
+    
+            <div class="relatedPropertySection">
+                <div class="title">
+                    <img src="/static/images/priceChangesLogo.png" alt="" />
+                    <h4><a href="/pricechanges?LocalityIDs=1392">Sandymount, Dublin 4</a> Price Changes</h4>
+                </div>
+
+                <ul class="priceChangeList itemList">
+                    
+                        <li class="positive">
+                            <a href="/residential/brochure/15-kirkwood-park-avenue-sandymount-dublin-4/2966517">
+                                <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/7/1/5/2966517/a7e8283d-3c97-4ec0-b848-0680669b12dd_t.jpg" alt="" />
+                                <span class="top" >15 Kirkwood, Park Avenue, Sandymount, DUBLIN 4</span>
+
+                                <div class="bottom">
+                                    <span class="diff">€10,000</span>
+                                    <span class="percent">2.6%</span>
+                                    <span class="change">
+                                        <span class="old">€385,000</span>
+                                        <span class="arrow">&rarr;</span>
+                                        <span class="new">€395,000</span>
+                                    </span>
+                                </div>
+
+                                <div class="right">
+                                    <span class="when">20 Nov</span>
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li class="negative">
+                            <a href="/residential/brochure/1-sandymount-court-sandymount-dublin-4/2934884">
+                                <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/4/8/8/2934884/1%20Sandymount%20Court%20(64)%20(1280x960)_t.jpg" alt="" />
+                                <span class="top" >1 Sandymount Court, Sandymount,   Dublin 4</span>
+
+                                <div class="bottom">
+                                    <span class="diff">-€15,000</span>
+                                    <span class="percent">-2.46%</span>
+                                    <span class="change">
+                                        <span class="old">€610,000</span>
+                                        <span class="arrow">&rarr;</span>
+                                        <span class="new">€595,000</span>
+                                    </span>
+                                </div>
+
+                                <div class="right">
+                                    <span class="when">18 Nov</span>
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li class="positive">
+                            <a href="/residential/brochure/10-margaret-place-sandymount-dublin-4/2900196">
+                                <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/6/9/1/2900196/10%20Margaret%20Place%20(49)%20(1280x960)_t.jpg" alt="" />
+                                <span class="top" >10 Margaret Place, Sandymount,   Dublin 4</span>
+
+                                <div class="bottom">
+                                    <span class="diff">€15,000</span>
+                                    <span class="percent">3.95%</span>
+                                    <span class="change">
+                                        <span class="old">€380,000</span>
+                                        <span class="arrow">&rarr;</span>
+                                        <span class="new">€395,000</span>
+                                    </span>
+                                </div>
+
+                                <div class="right">
+                                    <span class="when">14 Nov</span>
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li class="negative">
+                            <a href="/residential/brochure/herbert-mews-fairfield-court-herbert-road-sandymount/2681778">
+                                <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/8/7/7/2681778/30ce1db760_t.jpg" alt="" />
+                                <span class="top" >Herbert Mews, Fairfield Court, Herbert Road, Sandymount</span>
+
+                                <div class="bottom">
+                                    <span class="diff">-€50,000</span>
+                                    <span class="percent">-12.66%</span>
+                                    <span class="change">
+                                        <span class="old">€395,000</span>
+                                        <span class="arrow">&rarr;</span>
+                                        <span class="new">€345,000</span>
+                                    </span>
+                                </div>
+
+                                <div class="right">
+                                    <span class="when">13 Nov</span>
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li class="negative">
+                            <a href="/residential/brochure/1b-havelock-place-bath-avenue-sandymount-dublin-4/2893759">
+                                <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/9/5/7/2893759/458ade2467_t.jpg" alt="" />
+                                <span class="top" >1b Havelock Place, Bath Avenue, Sandymount, Dublin 4</span>
+
+                                <div class="bottom">
+                                    <span class="diff">-€5,000</span>
+                                    <span class="percent">-1.25%</span>
+                                    <span class="change">
+                                        <span class="old">€400,000</span>
+                                        <span class="arrow">&rarr;</span>
+                                        <span class="new">€395,000</span>
+                                    </span>
+                                </div>
+
+                                <div class="right">
+                                    <span class="when">12 Nov</span>
+                                </div>
+                            </a>
+                        </li>
+                    
+                </ul>
+
+                <div class="bottomLinks">
+                    <a href="/pricechanges">View All Price Changes &raquo;</a>
+                </div>
+            </div>
+        
+</div>
+
+<div id="priceRegister">
+    
+            <div class="relatedPropertySection noMargin">
+                <div class="title">
+                    <img src="/static/images/priceChangesLogo.png" alt="" />
+                    <h4><a href="/priceregister">Property Price Register</a></h4>
+                </div>
+            
+
+                <ul class="itemList">
+                    
+                        <li>
+                            <a href="/priceregister/3-sandymount-castle-park-dublin-4-sandymount-dublin-4-319185">
+                                <img class="replaceIfBroke" src="/static/images/brokenImages/120x80.png" alt="3 SANDYMOUNT CASTLE PARK, DUBLIN 4, Sandymount, Dublin 4" />
+                                <span class="top">3 SANDYMOUNT CASTLE PARK, DUBLIN 4, Sandymount, Dublin 4</span>
+                                <span class="bottom">
+				 Second-Hand Dwelling house /Apartment</span>
+
+                                <div class="right">
+                                    <div class="priceWrap">
+                                        <span class="price"><span>Sold for</span> €921,005</span>
+                                        
+                                    </div>
+                                    <span class="when">on 30 Oct</span>                                    
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="/priceregister/7-beach-dr-dublin-4-sandymount-dublin-4-320695">
+                                <img class="replaceIfBroke" src="/static/images/brokenImages/120x80.png" alt="7 BEACH DR, DUBLIN 4, Sandymount, Dublin 4" />
+                                <span class="top">7 BEACH DR, DUBLIN 4, Sandymount, Dublin 4</span>
+                                <span class="bottom">
+				 Second-Hand Dwelling house /Apartment</span>
+
+                                <div class="right">
+                                    <div class="priceWrap">
+                                        <span class="price"><span>Sold for</span> €475,000</span>
+                                        
+                                    </div>
+                                    <span class="when">on 22 Oct</span>                                    
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="/priceregister/59-strand-rd-dublin-4-sandymount-dublin-4-316236">
+                                <img class="replaceIfBroke" src="/static/images/brokenImages/120x80.png" alt="59 STRAND RD, DUBLIN 4, Sandymount, Dublin 4" />
+                                <span class="top">59 STRAND RD, DUBLIN 4, Sandymount, Dublin 4</span>
+                                <span class="bottom">
+				 Second-Hand Dwelling house /Apartment</span>
+
+                                <div class="right">
+                                    <div class="priceWrap">
+                                        <span class="price"><span>Sold for</span> €1,300,000</span>
+                                        
+                                    </div>
+                                    <span class="when">on 2 Oct</span>                                    
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="/priceregister/61-bath-ave-dublin-4-sandymount-dublin-4-317573">
+                                <img class="replaceIfBroke" src="/static/images/brokenImages/120x80.png" alt="61 BATH AVE, DUBLIN 4, Sandymount, Dublin 4" />
+                                <span class="top">61 BATH AVE, DUBLIN 4, Sandymount, Dublin 4</span>
+                                <span class="bottom">
+				 Second-Hand Dwelling house /Apartment</span>
+
+                                <div class="right">
+                                    <div class="priceWrap">
+                                        <span class="price"><span>Sold for</span> €665,000</span>
+                                        
+                                    </div>
+                                    <span class="when">on 1 Oct</span>                                    
+                                </div>
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="/priceregister/39-seabury-apt-sydney-parade-avenue-sandymount-dublin-4-321254">
+                                <img class="replaceIfBroke" src="/static/images/brokenImages/120x80.png" alt="39 SEABURY APT, SYDNEY PARADE AVENUE, Sandymount, Dublin 4" />
+                                <span class="top">39 SEABURY APT, SYDNEY PARADE AVENUE, Sandymount, Dublin 4</span>
+                                <span class="bottom">
+				 Second-Hand Dwelling house /Apartment</span>
+
+                                <div class="right">
+                                    <div class="priceWrap">
+                                        <span class="price"><span>Sold for</span> €420,000</span>
+                                        
+                                    </div>
+                                    <span class="when">on 25 Sep</span>                                    
+                                </div>
+                            </a>
+                        </li>
+                    
+                </ul>
+                <div class="bottomLinks">
+                    <a href="/priceregister">View All Sold Properties &raquo;</a>
+                </div>
+            </div>
+        
+    <div id="priceRegisterDisclaimer">
+        <p>* Denotes Not Full Market Price</p>
+        <p>† Denotes Price is Ex. VAT</p>
+        <p>Although every effort has been taken to ensure the accuracy, completeness and reliability of the information provided, MyHome.ie assumes no responsibility for the accuracy of the price register data nor the previously for sale properties matches.</p>
+    </div>
+</div>
+    <div id="similarProperties">
+        <div class="similarBottom">
+            <h4>You may also be interested in:</h4>
+            <ul>
+                
+                    <li>
+                        <a href="/residential/brochure/36-farney-park-sandymount-dublin-4/2556965">
+                            <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/5/6/9/2556965/36%20Farney%20Park%20Main_t.jpg" alt="36 Farney Park, Sandymount,   Dublin 4" />
+                            <span>3 Bed - €875,000</span>
+                            <span>36 Farney Park, Sandymount,   Dublin 4</span>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/residential/brochure/55-radcliff-hall-sandymount-dublin-4/2833282">
+                            <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/2/8/2/2833282/55%20Radcliff%20Hall%20(32)%20(1280x960)_t.jpg" alt="55 Radcliff Hall, Sandymount,   Dublin 4" />
+                            <span>3 Bed - €895,000</span>
+                            <span>55 Radcliff Hall, Sandymount,   Dublin 4</span>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/residential/brochure/49-claremont-road-sandymount-dublin-4/2913195">
+                            <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/5/9/1/2913195/49%20Claremont%20Road%20(39)%20(1280x1100)_t.jpg" alt="49 Claremont Road, Sandymount,   Dublin 4" />
+                            <span>3 Bed - €925,000</span>
+                            <span>49 Claremont Road, Sandymount,   Dublin 4</span>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/residential/brochure/65-sandymount-road-sandymount-dublin-4/2960822">
+                            <img class="replaceIfBroke" src="//photos-a.propertyimages.ie/media/2/2/8/2960822/707eddc1-ee07-417b-aa26-78aec5e7b3eb_t.jpg" alt="65 Sandymount Road, Sandymount, Dublin 4" />
+                            <span>3 Bed - €995,000</span>
+                            <span>65 Sandymount Road, Sandymount, Dublin 4</span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>    
+    </div>
+
+	</div>
+	<div class="columnRight">
+		
+    <div class="rightBox noMargin agentBrand agentContact">
+    
+        <h3>McNally Handy</h3>
+        <div class="rightBoxContent agentBrand">
+
+            
+                <a href="/residential/estate-agents/mcnally-handy-5719">
+                    <img src="//photos-a.propertyimages.ie/groups/9/1/7/5719/logo.jpg" alt="agentLogo" class="agentImg" />
+                </a>
+                <ul class="agentDetails">
+            
+                <li><a href="/residential/estate-agents/mcnally-handy-5719" class="blueLink">McNally Handy</a></li>
+                <li>3 Pembroke Street Lower, Dublin City Centre, Dublin 2, </li>
+                
+                    <li>Tel: 01 6612003</li>
+                
+                    <li>Fax: 01 6611887 </li>
+                
+            </ul>
+
+            
+                <h4 class="agentContactHeader">Contact the Agent:</h4>
+            
+                <a id="email" class="agentContactButton button red main XL" value="2998360">Email</a>
+                <a value="/residential/call/2998360" id="requestCall" class="agentContactButton button blue main XL">Call</a>
+            
+        </div>
+    </div>
+
+    
+
+<script type="text/javascript">
+
+            var agentImages = [];
+
+            //imgUrl, linkUrl, linkTarget, imgTitle
+            //foreach img in agent related properties mainImages
+            //create string: "["imgUrl", "linkUrl", "linkTarget", "imgTitle"]"
+            //push string to array
+            //array is passed to simpleGallery function
+
+            
+                    agentImages.push(["//photos-a.propertyimages.ie/media/0/6/3/2998360/9270cddc-1213-4364-9a8a-a1f4e4b22fdb_c.jpg","/2998360","_parent","Ashleigh, Oaklands Park, Sandymount, San..."]);
+                
+                    agentImages.push(["//photos-a.propertyimages.ie/media/8/5/4/2992458/65757d85-5790-46d0-8c4d-1b6160df8bb8_c.jpg","/2992458","_parent","41 Ramleh Hall,Mount St Annes, Milltown,..."]);
+                
+                    agentImages.push(["//photos-a.propertyimages.ie/media/5/4/3/2967345/ea5962bc-bf2c-476b-936a-91366e0b2696_c.jpg","/2967345","_parent","7 Priory Walk, St Raphaels Manor, Celbri..."]);
+                
+                    agentImages.push(["//photos-a.propertyimages.ie/media/0/9/1/2913190/P1090540_c.JPG","/2913190","_parent","9 Killarney Street, North City Centre,  ..."]);
+                
+                    agentImages.push(["//photos-a.propertyimages.ie/media/5/0/6/2884605/DSC_0464_c.JPG","/2884605","_parent","2 Coolgraney Avenue, Clonskeagh Road, Du..."]);
+                
+
+        </script>
+
+        
+
+            <div class="rightBox agentBrand carousel">
+                <h3>More properties from this Agent</h3>
+                <div class="rightBoxContent agentBrand simpleGallery">
+                    <div id="agentPropertySlider"></div>
+                    <div id="descNavBar"></div>
+                </div>
+            </div>
+
+        
+    
+    <div class="flowJobAd">
+        <iframe width="300" height="100" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="/ad?type=scsibrochuresponsor&id=3784734&groupid=5719&localityid=1392&address=Ashleigh+Oaklands+Park+Sandymount+Sandymount+++Dublin+4&propertyid=2998360"></iframe>
+    </div>
+
+<div class="rightBox mortgageAds">
+    <h3>Mortgages</h3>
+    <div class="rightBoxContent light">
+        
+                <p class="mortgageBoxTitle">Ready for your next step?<br/>Would you like to move home?<br/>Thinking about the next step?</p>
+                <a class="floatRight" href="http://adserver.adtech.de/?adlink|3.0|257|3877577|1|16|AdId=10471574;BnId=2;link=http://ad-emea.doubleclick.net/clk;281252019;108065478;e">
+                    <img src="/static/images/generic/mortgages/boilogo_145x61.png" alt="Bank of Ireland Mortgages" title="Bank of Ireland Mortgages" />
+                </a>
+                <div class="clear"></div>
+                <a href="http://adserver.adtech.de/?adlink|3.0|257|3877577|1|16|AdId=10471574;BnId=2;link=http://ad-emea.doubleclick.net/clk;281252019;108065478;e" id="mortgageBoxButton" class="button large blue main">Enquire Now</a>
+
+                <div class="warningBox">
+                    <p><br />Lending criteria, terms and conditions, security and insurance are required. <br/>
+                        Bank of Ireland Mortgage Bank trading as Bank of Ireland Mortgages is regulated by the Central Bank of Ireland.</p>
+                </div>
+                <!-- Start Impression Tracking Code for BOI Mortgages -->
+                <A HREF="http://ad-emea.doubleclick.net/jump/N3402.myhome.ie/B8030096.7;sz=1x1;ord=[timestamp]?">
+                <IMG SRC="http://ad-emea.doubleclick.net/ad/N3402.myhome.ie/B8030096.7;sz=1x1;ord=[timestamp]?" BORDER=0 WIDTH=1 HEIGHT=1 ALT=""></A>
+                <!-- End Impression Tracking Code for BOI Mortgages -->
+            
+    </div>
+</div>
+    <div id="IslandAd">
+        <iframe width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="/ad?type=island&id=3724529&groupid=5719&localityid=1392&address=Ashleigh+Oaklands+Park+Sandymount+Sandymount+++Dublin+4&propertyid=2998360"></iframe>
+    </div>
+
+<div class="rightBox">
+    <h3>Sponsored Links</h3>
+    <div class="rightBoxContent light">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Brochure Page Right -->
+        <ins class="adsbygoogle" style="display:inline-block;width:300px;height:200px" data-ad-client="ca-pub-7635836061020882" data-ad-slot="4862941653"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+</div>
+<div class="rightBox">
+    <h3>Calculators</h3>
+    <div class="rightBoxContent light">
+        <ul class="half">
+            <li class="bold">Stamp Duty</li>
+            <li>€8,750</li>
+        </ul>
+        <ul class="half">
+            <li class="bold">Total Amount</li>
+            <li>€883,750</li>
+        </ul>
+        <div class="stampDutyLinks">
+            <a class="arrowLink" href="http://blog.myhome.ie/2012/01/stamp-duty-explained/" target="_blank">Find out more about Stamp Duty</a>
+            <a class="arrowLink" href="/calculators/stampduty">Stamp Duty Calculator</a>
+            <a class="arrowLink" href="/calculators/mortgage">Mortgage Calculator</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="rightBox">
+    <h3>Subscribe to our blog</h3>
+    <div class="rightBoxContent light">
+        <form action="http://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+            <p>Enter your email address to subscribe to our blog and receive notifications of new posts by email.</p>
+            <p><input type="text" name="email" value="" id="subscribe-field"></p>
+            <input type="hidden" name="action" value="subscribe">
+            <input type="hidden" name="blog_id" value="11961382">
+            <input type="hidden" name="source" value="http://blog.myhome.ie/">
+            <input type="hidden" name="sub-type" value="widget">
+            <input type="hidden" id="_wpnonce" name="_wpnonce" value="db39de763d"><input type="hidden" name="_wp_http_referer" value="/">
+            <p><button class="button green main floatRight" type="submit">Sign Me Up!</button></p>
+        </form>
+    </div>
+</div>
+
+    <div class="rightBox">
+        <h3>Services In This Area</h3>
+        <!-- 1392 -->
+        <div class="rightBoxContent light">
+            <ul>
+                
+                    <li><a href="/services/architects/dublin/the-house-architects-302995">The House Architects</a></li>
+                
+                    <li><a href="/services/solicitors/ireland/mcsweeney-solicitors-311933">McSweeney Solicitors</a></li>
+                
+                    <li><a href="/services/valuers/dublin/hickey-auctioneers-263203">Hickey Auctioneers</a></li>
+                
+                    <li><a href="/services/ber-assessors/clonsilla/vincent-brady-consulting-engineers-291295">Vincent Brady Consulting Engineers</a></li>
+                
+                    <li><a href="/services/ber-assessors/ireland/brian-p-walsh-co-ltd-301327">Brian P Walsh &amp; Co Ltd</a></li>
+                
+            </ul>
+        </div>
+    </div>
+
+          
+	</div>
+</div>
+<script type="text/javascript">
+	var applicationVersion = "3.0.5444.32955";
+	var ContactConversionLabelFromPage = "4ul_CKuupwEQ-9O4-QM";
+	var ContactTrackPageViewTopicFromPage = "/residential/enquiry";
+</script>
+
+    
+    <div id="colorboxLeaderboardAdTechID" class="4056913"></div>
+
+                
+
+<div id="footer">
+    <ul class="list">
+        <li><h2>MyHome Searches</h2></li>
+        <li><a href="/residential/ireland/property-for-sale">Property for Sale</a></li>
+        <li><a href="/residential/ireland/new-homes/property-for-sale">New Homes for Sale</a></li>
+        <li><a href="/residential/estate-agents">Estate Agents</a></li>
+        <li><a href="/mortgages">Mortgage Quotes</a></li>
+        <li><a href="/pricechanges">Recent Price Changes</a></li>
+        <li><a href="/priceregister">Property Price Register</a></li>
+    </ul>
+    <ul class="list">    
+        <li><h2>Popular Searches</h2></li>
+        <li><a href="/residential/dublin/property-for-sale">Property Dublin</a></li>
+        <li><a href="/residential/waterford/property-for-sale">Property Waterford</a></li>
+        <li><a href="/residential/galway/property-for-sale">Property Galway</a></li>
+        <li><a href="/residential/limerick/property-for-sale">Property Limerick</a></li>
+        <li><a href="/residential/cork/property-for-sale">Property Cork</a></li>
+    </ul>
+    <ul class="list">
+        <li><h2>Property Tools</h2></li>
+        <li><a href="/calculators/mortgage">Mortgage Calculator</a></li>
+        <li><a href="/calculators/stampduty">Stamp Duty Calculator</a></li>
+        <li><a href="/user">Property Alerts</a></li>
+        <li><a href="/mobile">MyHome.ie Mobile</a></li>
+    </ul>
+    <ul class="list">
+        <li><h2>Regulars</h2></li>
+        <li><a href="http://blog.myhome.ie" target="_blank">MyHome.ie Blog</a></li>
+        <li><a href="/area-guides">Area Guides</a></li>
+        <li><a href="/competitions">Competitions</a></li>
+        <li><a href="/newsletter">Newsletter</a></li>
+        <li><a target="_blank" href="http://blog.myhome.ie/category/advice/property-news/property-news-property-n/">Property Reports</a></li>
+        <li><a href="http://feedback.myhome.ie" target="_blank" rel="nofollow">Feedback</a></li>
+    </ul>
+    <div class="footerBottom">
+        <ul class="pipe floatLeft">
+            <li><a href="/">For Sale</a></li>
+            <li><a href="/rentals">To Rent</a></li>
+            <li><a href="/commercial">Commercial</a></li>
+            <li><a href="/holiday-homes">Holiday Homes</a></li>
+            <li><a href="/services">Services</a></li>
+        </ul>
+        <ul class="pipe floatRight">
+            <li><a href="/help">Help</a></li>
+            <li><a href="/jobs">Jobs</a></li>
+            <li><a href="/advertise-with-us">Advertise</a></li>
+            <li><a href="/sitemap">Site Map</a></li>
+            <li><a href="/contact">Contact Us</a></li>
+            <li><a href="/about">About Us</a></li>
+        </ul>
+    </div>
+</div>
+            </div>
+
+        </div>
+
+        <div id="footerSmallPrint">
+            
+
+<div id="partnerLinks">
+    <ul>
+        <li class="first"><span>Our partners:</span></li>
+        <li><a href="http://www.irishtimes.com" title="irishtimes.com" target="_blank">irishtimes.com</a></li>
+        <li><a href="http://www.myantiques.ie" title="myantiques.ie" target="_blank">myantiques.ie</a></li>
+        <li><a href="http://entertainment.ie" title="entertainment.ie" target="_blank">entertainment.ie</a></li>
+        <li><a href="http://www.irishracing.com" title="irishracing.com" target="_blank">irishracing.com</a></li>
+        <li><a href="http://www.top1000.ie" title="The Top 1000 Companies in Ireland" target="_blank">top1000.ie</a></li>
+        <li class="last"><a href="http://www.rewardingtimes.ie" title="rewardingtimes.ie" target="_blank">rewardingtimes.ie</a></li>
+    </ul>
+</div>
+
+<ul class="pipe copyright">
+    <li><a href="/privacy">Privacy</a> - <a href="/terms">Terms &amp; Conditions</a></li>
+    <li>Copyright 2014 MyHome Ltd.</li>
+</ul>
+        </div>
+
+        
+
+<script type="text/javascript">
+    var isAuthenticated = false;
+    var isIE6 = false;
+    var isIE7 = false;
+    var isIE9 = false;
+</script>
+
+    <script src="/bundles/coreJs?v=-7tMvEyfozq4yD4FGTSsxN-B_YgebuIOEp1DB3mZAA81"></script>
+
+    
+    
+    
+    <script src="/bundles/hoverIntentJs?v=j44cjT85Ww-gveCHJIPMI1LBDGPsOOukEGcW6CnX2841"></script>
+
+    
+    
+    <script src="/bundles/validationJs?v=LP_5Jsm248vRuIOjVimkJNqjNyTkE59fSsV3WQC44Pc1"></script>
+
+    
+    <script src="/bundles/colorboxJs?v=ja4hu3P3Xx-svSYkP9TKCuPnygGxdIepNwHqUDUdoLQ1"></script>
+
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <script>(function (d, t) { var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.async = true; g.src = 'https://apis.google.com/js/plusone.js'; s.parentNode.insertBefore(g, s); })(document, 'script'); </script>
+    
+            <script type="text/javascript" src="/static/scripts/jquery.simplegallery.min.js?v=3.0.5444.32955"></script>
+            <script src="/bundles/brochureJs?v=FJA7jid9WcXHdZFV2YfZCN_qi_n5wfFUpqlpEJh2_iY1"></script>
+
+        <script src="/bundles/leaflet?v=1WYN0bFMwF34C8dykKhwKPGMZEJa0RiLQVQCoaA4pGo1"></script>
+
+        <script src="/bundles/leafletBrochureMap?v=ZVnddYgd_j3yN4Kya11ruKzK1ynlHhLGDE3kki1mQDo1"></script>
+
+        
+        
+    
+        
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3401544-1']);
+    
+      _gaq.push(['_setCustomVar', 1, 'GroupID', '5719', 3]);
+    
+      _gaq.push(['_setCustomVar', 2, 'PropertyID', '2998360', 3]);
+    
+      _gaq.push(['_setCustomVar', 3, 'PropertyClassID', '1', 3]);
+    
+      _gaq.push(['_setCustomVar', 4, 'LocalityID', '1392', 3]);
+    
+
+    _gaq.push(['_setCustomVar', 5, 'IsMobileSite', 'False', 3]);
+  
+    _gaq.push(['_setDomainName', 'myhome.ie']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+</script>
+
+<!-- "MYHOME-WEB1"; -->
+
+
+
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3P56X" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })
+    (window, document, 'script', 'dataLayer', 'GTM-T3P56X');
+</script>
+<!-- End Google Tag Manager -->
+        <!-- Begin comScore Tag -->
+        <script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "8946263" });
+            (function () {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script>
+        <noscript>
+          <img src="http://b.scorecardresearch.com/p?c1=2&c2=8946263&cv=2.0&cj=1" />
+        </noscript>
+        <!-- End comScore Tag -->
+    </body>
+</html>
